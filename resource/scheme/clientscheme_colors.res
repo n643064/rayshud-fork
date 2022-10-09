@@ -6,14 +6,14 @@ Scheme
 		// HUD COLORS
 		//---------------------------------------------
 		"ColorRed"					"227 31 72 255"
-		"ColorYellow"				"255 255 0 255"
+		"ColorYellow"				"227 31 72 255"
 		"ColorGreen"				"48 255 48 255"
 		//"ColorCyan"					"155 101 237 255"
 		//"ColorCyanShadow"			"175 70 157 255"
 		//"ColorCyanTransparent"		"155 101 237 128"
-		"ColorCyan"					"ColorRed"
-		"ColorCyanShadow"			"ColorRed"
-		"ColorCyanTransparent"		"ColorRed"
+		"ColorCyan"					"227 31 72 255"
+		"ColorCyanShadow"			"227 31 72 255"
+		"ColorCyanTransparent"		"227 31 72 255"
 		"ColorBlue"					"0 0 255 255"
 		"ColorPurple"				"208 21 111 255"
 		"ColorMagenta"				"255 0 255 255"
@@ -24,7 +24,8 @@ Scheme
 		"Grey"						"51 47 46 255"
 		"DarkGrey"					"27 27 27 255"
 		"DarkerGrey"				"22 22 22 255"
-		"TextColor"					"117 107 94 255"
+		//"TextColor"					"117 107 94 255"
+		"TextColor"					"255 255 255 255"
 		//---------------------------------------------
 		// Gameplay
 		"Ammo In Clip"				"48 255 48 255"
@@ -62,11 +63,12 @@ Scheme
 		//---------------------------------------------
 		// DEFAULT COLORS
 		//---------------------------------------------
-		"Orange"								"ColorRed"
-		"OrangeDim"								"ColorRed"
+		"Orange"								"227 31 72 255"
+		"OrangeDim"								"227 31 72 255"
 		"LightOrange"							"188 112 0 128"
 		"GoalOrange"							"255 133 0 255"
-		"TFOrange"								"145 73 59 255"
+		//"TFOrange"							"145 73 59 255"
+		"TFOrange"								"227 31 72 255"
 		"Purple"								"137 69 99 255"
 
 		"HalloweenThemeColor2015_Light"			"238 126 17 255"
@@ -92,11 +94,11 @@ Scheme
 		"RedSolid"								"205 50 50 255"
 		"Blue"									"70 130 180 150"
 		"BlueSolid"								"70 130 180 255"
-		"Yellow"								"ColorRed"
-		"TransparentYellow"						"ColorRed"
+		"Yellow"								"227 31 72 255"
+		"TransparentYellow"						"227 31 72 255"
 		"BrightYellow"							"251 235 0 255"
 		"GreenSolid"							"76 107 34 255"
-
+		//"GreenSolid"							"227 31 72 255"
 		"Black"									"29 29 29 255"
 		"Transparent"							"0 0 0 0"
 		"TransparentBlack"						"0 0 0 230"
@@ -124,7 +126,7 @@ Scheme
 		"HudPanelForeground"					"123 110 59 184"
 		"HudPanelBackground"					"123 110 59 184"
 		//"HudPanelBorder"						"255 255 255 102"
-		"HudPanelBorder"						"ColorRed"
+		"HudPanelBorder"						"227 31 72 255"
 		"HudProgressBarActive"					"240 207 78 255"
 		"HudProgressBarInActive"				"140 120 73 255"
 		"HudProgressBarActiveLow"				"240 30 30 255"
@@ -257,7 +259,7 @@ Scheme
 		"QualityColorPaintkitWeapon_GreyedOut"	"60 60 60 255"
 
 		"SaleGreen"								"76 107 34 255"
-		"LightRed"								"ColorRed"
+		"LightRed"								"227 31 72 255"
 		"LighterRed"							"220 100 80 255"
 		"LighterDarkBrown"						"59 54 48 255"
 		"DarkBrown"								"41 37 38 255"

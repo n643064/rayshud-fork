@@ -103,7 +103,7 @@ Scheme
 		Menu.ArmedBgColor						"TanLight"
 		Menu.TextInset							"6"
 
-		Chat.TypingText							"Orange"
+		Chat.TypingText							"Red"
 
 		Panel.FgColor							"Gray"
 		Panel.BgColor							"Blank"
@@ -125,7 +125,7 @@ Scheme
 		PropertySheet.TransitionEffectTime		"0.25"		// time to change from one tab to another
 
 		RadioButton.TextColor					"ColorCyan"
-		RadioButton.SelectedTextColor			"Orange"
+		RadioButton.SelectedTextColor			"Red"
 
 		RichText.TextColor						"Gray"
 		RichText.BgColor						"Blank"
@@ -195,7 +195,8 @@ Scheme
 		HudCaptureProgressBar.InActive			"HudProgressBarInActive"
 
 		// Scheme-Specific Colors
-		"FgColor"								"255 180 60 255"
+		//"FgColor"								"255 180 60 255"
+		"FgColor"								"Red"
 		"BgColor"								"TransparentBlack"
 
 		"ViewportBG"							"Blank"
