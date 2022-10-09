@@ -30,7 +30,7 @@ Scheme
 		Econ.Button.PresetDefaultColorBg		"TanDarker"
 		Econ.Button.PresetArmedColorBg			"50 50 50 255"
 		Econ.Button.PresetDepressedColorBg		"TanDarker"
-		Econ.Button.Border.Default				"TanDarker"
+		Econ.Button.Border.Default				"ColorRed"
 		Econ.Button.Border.Armed				"50 50 50 255"
 
 		Border.Bright							"NoBorder"
@@ -49,8 +49,8 @@ Scheme
 		CheckButton.TextColor					"Yellow"
 		CheckButton.SelectedTextColor			"Yellow"
 		CheckButton.BgColor						"TransparentBlack"
-		CheckButton.Border1  					"Yellow"		// the left checkbutton border
-		CheckButton.Border2  					"Yellow"		// the right checkbutton border
+		CheckButton.Border1  					"ColorRed"		// the left checkbutton border
+		CheckButton.Border2  					"ColorRed"		// the right checkbutton border
 		CheckButton.Check						"Yellow"		// color of the check itself
 		CheckButton.HighlightFgColor			"Yellow"
 

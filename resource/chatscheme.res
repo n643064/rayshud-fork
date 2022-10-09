@@ -14,6 +14,7 @@ Scheme
 		"Black"				"0 0 0 255"
 		"Green"				"63 185 73 255"
 		"Blank"				"0 0 0 0"
+		"ColorRed"			"227 31 72 255"
 		
 		"DarkBrown"			"60 56 53 255"
 		"TanBright"			"236 227 203 150"
@@ -31,9 +32,9 @@ Scheme
 	BaseSettings
 	{
 		// vgui_controls color specifications
-		Border.Bright						"TanDark"
+		ColorRed						"TanDark"
 		Border.Dark							"TanDark"
-		Border.Selection					"BorderSelection"
+		Border.Selection					"ColorRed"
 
 		Button.TextColor					"DarkBrown"
 		Button.BgColor						"TanLight"
@@ -50,7 +51,7 @@ Scheme
 		CheckButton.ArmedBgColor			"Blank"
 		CheckButton.DepressedBgColor		"Blank"
 		CheckButton.Border1  				"Border.Dark"
-		CheckButton.Border2  				"Border.Bright"
+		CheckButton.Border2  				"ColorRed"
 		CheckButton.Check					"TanBright"
 		CheckButton.DisabledBgColor	   	 	"TransparentBlack"
 
@@ -462,7 +463,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset"	"1 0"
 				}
 			}
@@ -478,7 +479,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset" 	"0 0"
 				}
 			}
@@ -491,7 +492,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset"	"0 1"
 				}
 			}
@@ -507,7 +508,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset" 	"0 1"
 				}
 			}
@@ -617,7 +618,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset" 	"0 1"
 				}
 			}
@@ -633,7 +634,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset" 	"0 0"
 				}
 			}
@@ -646,7 +647,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset" 	"0 0"
 				}
 			}
@@ -662,7 +663,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset" 	"0 0"
 				}
 			}
@@ -718,7 +719,7 @@ Scheme
 				}
 				"2"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset" 	"0 1"
 				}
 			}
@@ -731,7 +732,7 @@ Scheme
 				}
 				"2"
 				{
-					"color"		"Border.Bright"
+					"color"		"ColorRed"
 					"offset" 	"1 0"
 				}
 			}
@@ -778,7 +779,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset" 	"1 0"
 				}
 			}
@@ -794,7 +795,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"Border.Bright"
+					"color" 	"ColorRed"
 					"offset" 	"0 0"
 				}
 			}
